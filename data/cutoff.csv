@@ -1,0 +1,30 @@
+college,branch,category,cutoff_rank
+JNTU Hyderabad,CSE,OC,2500
+JNTU Hyderabad,CSE,BC,6000
+JNTU Hyderabad,CSE,SC,12000
+JNTU Hyderabad,CSE,ST,16000
+
+JNTU Hyderabad,ECE,OC,5000
+JNTU Hyderabad,ECE,BC,9000
+JNTU Hyderabad,ECE,SC,15000
+JNTU Hyderabad,ECE,ST,19000
+
+OU College of Engineering,CSE,OC,4000
+OU College of Engineering,CSE,BC,8000
+OU College of Engineering,CSE,SC,14000
+OU College of Engineering,CSE,ST,18000
+
+OU College of Engineering,EEE,OC,8000
+OU College of Engineering,EEE,BC,12000
+OU College of Engineering,EEE,SC,17000
+OU College of Engineering,EEE,ST,20000
+
+CBIT Hyderabad,CSE,OC,6000
+CBIT Hyderabad,CSE,BC,10000
+CBIT Hyderabad,CSE,SC,16000
+CBIT Hyderabad,CSE,ST,19000
+
+CBIT Hyderabad,IT,OC,7000
+CBIT Hyderabad,IT,BC,11000
+CBIT Hyderabad,IT,SC,17000
+CBIT Hyderabad,IT,ST,20000
