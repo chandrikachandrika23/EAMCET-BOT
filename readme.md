@@ -1,4 +1,4 @@
-# 🎓 EAMCET-BOT
+# 🎓 EAMCET-BOT : https://huggingface.co/spaces/chandrika317/EAMCET-BOT
 
 An interactive AI chatbot that helps students with **EAMCET exam queries** and predicts possible **college admissions** based on rank, category, and branch cutoffs.
 
