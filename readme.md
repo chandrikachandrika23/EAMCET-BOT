@@ -19,7 +19,7 @@ Includes sample college cutoff data for multiple categories and branches.
 ## ▶️ How to Run
 ```bash
 # Clone repo
-git clone https://github.com/yourusername/EAMCET-BOT.git
+git clone https://github.com/chandrikachandrika23/EAMCET-BOT.git
 cd EAMCET-BOT
 
 # Install requirements
